@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Formula1",
+"productVersion": "0.1",
+"dataUrl": "formula1_Web.data.unityweb",
+"wasmCodeUrl": "formula1_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "formula1_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "formula1_Web.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
